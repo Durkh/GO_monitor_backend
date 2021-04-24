@@ -8,4 +8,4 @@ Implemented in Golang it gathers the hardware information and sends to a client 
 
 It's now aimed for use with a raspberry pi client but the client can run on any computer
 
-#WIP
+# WIP
