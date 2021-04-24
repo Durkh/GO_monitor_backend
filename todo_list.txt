@@ -1,0 +1,25 @@
+
+
+enviar para o rasp um json com memória e CPU  
+
+CPU:
+
+    uso por núcleo
+    temperatura
+    clock
+    
+Memória:
+
+    total
+    utilizada (GB)
+    utilizada (%)
+    
+
+    
+TODO:
+
+    GPU
+        processor utilization 
+        processor clock
+        memory utilization
+        memory clock
