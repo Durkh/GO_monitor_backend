@@ -13,3 +13,9 @@ func PSMemError(err error) {
 		log.Fatalf("PSUtil Memory Error: %s", err.Error())
 	}
 }
+
+func HTTPError(err error) {
+	if err != nil {
+		log.Fatalf("HTTP Error: %s", err.Error())
+	}
+}
